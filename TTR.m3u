@@ -1,145 +1,145 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Atv_logo_2016.png" group-title="Turk",ATV
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/atv.png" group-title="Turk",ATV
 https://andro.226503.xyz/checklist/androstreamliveatv.m3u8
 
-#EXTINF:-1 tvg-name="ATV Avrupa" tvg-logo="https://www.atvavrupa.tv/assets/images/logo.png" group-title="Turk",ATV Avrupa
+#EXTINF:-1 tvg-name="ATV Avrupa" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/atv-avrupa.png" group-title="Turk",ATV Avrupa
 https://cdn504.canlitv.vin/atvavrupa.m3u8
 
-#EXTINF:-1 tvg-name="SHOW TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Show_TV_logo.svg" group-title="Turk",SHOW TV
+#EXTINF:-1 tvg-name="SHOW TURK" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/show-turk.png" group-title="Turk",SHOW TV
 https://cdn501.canlitv.vin/showturk.m3u8
 
-#EXTINF:-1 tvg-name="SHOW MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/59/Showmax_logo.png" group-title="Turk",SHOW MAX
+#EXTINF:-1 tvg-name="SHOW MAX" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/show-max.png" group-title="Turk",SHOW MAX
 https://cdn900.canlitv.vin/showmax.m3u8
 
-#EXTINF:-1 tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TV8_logo.svg/512px-TV8_logo.svg.png" group-title="Turk",TV8
+#EXTINF:-1 tvg-name="TV8" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/tv8.png" group-title="Turk",TV8
 https://andro.1286503.xyz/checklist/androstreamlivetv8.m3u8
 
-#EXTINF:-1 tvg-name="NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NOW_TV_%28Turkey%29_wordmark-red.svg" group-title="Turk",NOW
+#EXTINF:-1 tvg-name="NOW" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/now.png" group-title="Turk",NOW
 https://cdn502.canlitv.vin/foxtv.m3u8
 
-#EXTINF:-1 tvg-name="Minika Cocuk" tvg-logo="https://www.minikacocuk.com.tr/assets/images/minikacocuk-logo.png" group-title="Kids",Minika Cocuk
+#EXTINF:-1 tvg-name="Minika Cocuk" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/minika-cocuk.png" group-title="Kids",Minika Cocuk
 https://cdn509.canlitv.vin/minikacocuk.m3u8
 
-#EXTINF:-1 tvg-name="Minika GO" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/05/MinikaGO.png" group-title="Kids",Minika GO
+#EXTINF:-1 tvg-name="Minika GO" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/minika-go.png" group-title="Kids",Minika GO
 https://cdn501.canlitv.vin/minikago.m3u8
 
-#EXTINF:-1 tvg-name="Cartoon Network Turkiye" tvg-logo="https://www.cartoonnetwork.com.tr/assets/images/cn-logo.png" group-title="Kids",Cartoon Network Turkiye
+#EXTINF:-1 tvg-name="Cartoon Network Turkiye" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/cartoon-network.png" group-title="Kids",Cartoon Network Turkiye
 https://yayin2.canlitv.fun/live/cartoon-network.stream/chunklist_w1899821738.m3u8
 
-#EXTINF:-1 tvg-name="DIYANET TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png" group-title="Dini",DIYANET TV
+#EXTINF:-1 tvg-name="DIYANET TV" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/diyanet-tv.png" group-title="Dini",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TRT_1_logo_%282021-present%29.svg" group-title="Documentaire",TRT BELGESEL
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/trt-belgesel.png" group-title="Documentaire",TRT BELGESEL
 https://cdn900.canlitv.vin/trtbelgesel.m3u8
 
-#EXTINF:-1 tvg-name="BEYAZ TV" tvg-logo="https://m.yilmaztv.cc/logo/beyaz-tv.jpg" group-title="News",BEYAZ TV
+#EXTINF:-1 tvg-name="BEYAZ TV" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/beyaz-tv.png" group-title="News",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
-#EXTINF:-1 tvg-name="360 TV" tvg-logo="https://m.yilmaztv.cc/logo/360-tv.jpg" group-title="News",360 TV
+#EXTINF:-1 tvg-name="360 TV" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/360-tv.png" group-title="News",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://m.yilmaztv.cc/logo/kanal-7.jpg" group-title="Ulusal",KANAL 7
+#EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/kanal-7.png" group-title="Ulusal",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
-#EXTINF:-1 tvg-name="LALEGUL TV" tvg-logo="https://m.yilmaztv.cc/logo/lalegul-tv.jpg" group-title="Dini",LALEGUL TV
+#EXTINF:-1 tvg-name="LALEGUL TV" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/lalegul-tv.png" group-title="Dini",LALEGUL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 
-#EXTINF:-1 tvg-name="TV 4" tvg-logo="https://m.yilmaztv.cc/logo/tv-4.jpg" group-title="Ulusal",TV 4
+#EXTINF:-1 tvg-name="TV 4" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/tv4.png" group-title="Ulusal",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
-#EXTINF:-1 tvg-name="Show TV" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
+#EXTINF:-1 tvg-name="Show TV" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/show-tv.png" group-title="Ulusal",Show TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8
 
-#EXTINF:-1 tvg-name="Kanal D" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
+#EXTINF:-1 tvg-name="Kanal D" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/kanal-d.png" group-title="Ulusal",Kanal D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Euro D" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Yurt Disi",Euro D
+#EXTINF:-1 tvg-name="Euro D" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/euro-d.png" group-title="Yurt Disi",Euro D
 http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV8 5" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="Ulusal",TV8 5
+#EXTINF:-1 tvg-name="TV8 5" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/tv85.png" group-title="Ulusal",TV8 5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
 
-#EXTINF:-1 tvg-name="FLASH HABER" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="News",FLASH HABER
+#EXTINF:-1 tvg-name="FLASH HABER" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/flash-haber.png" group-title="News",FLASH HABER
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 
-#EXTINF:-1 tvg-name="A2" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="Entertainment",A2
+#EXTINF:-1 tvg-name="A2" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/a2.png" group-title="Entertainment",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
-#EXTINF:-1 tvg-name="TEVE2" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="Entertainment",TEVE2
+#EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/teve2.png" group-title="Entertainment",TEVE2
 http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 
-#EXTINF:-1 tvg-name="DMAX" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Entertainment",DMAX
+#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/dmax.png" group-title="Entertainment",DMAX
 https://yayin2.canlitv.fun/live/dmax.stream/chunklist_w1435309819.m3u8
 
-#EXTINF:-1 tvg-name="TLC" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" group-title="Entertainment",TLC
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/tlc.png" group-title="Entertainment",TLC
 https://yayin2.canlitv.fun/live/tlc.stream/chunklist_w197474673.m3u8
 
-#EXTINF:-1 tvg-name="TV100" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="News",TV100
+#EXTINF:-1 tvg-name="TV100" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/tv100.png" group-title="News",TV100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 
-#EXTINF:-1 tvg-name="TRT Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="News",TRT Haber
+#EXTINF:-1 tvg-name="TRT Haber" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/trt-haber.png" group-title="News",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="https://i.imgur.com/PrxwKDw.png" group-title="News",TGRT Haber
+#EXTINF:-1 tvg-name="TGRT Haber" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/tgrt-haber.png" group-title="News",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-1 tvg-name="Haberturk" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="News",Haberturk
+#EXTINF:-1 tvg-name="Haberturk" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/haberturk.png" group-title="News",Haberturk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 
-#EXTINF:-1 tvg-name="A Spor" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Sport",A Spor
+#EXTINF:-1 tvg-name="A Spor" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/a-spor.png" group-title="Sport",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 
-#EXTINF:-1 tvg-name="HT Spor" tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="Sport",HT Spor
+#EXTINF:-1 tvg-name="HT Spor" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/ht-spor.png" group-title="Sport",HT Spor
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 
-#EXTINF:-1 tvg-name="beIN Sports Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bein_Sports_logo.svg/512px-Bein_Sports_logo.svg.png" group-title="Sport",beIN Sports Haber
+#EXTINF:-1 tvg-name="beIN Sports Haber" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/bein-sports-haber.png" group-title="Sport",beIN Sports Haber
 https://cdn503.canlitv.vin/beinsporthaber.m3u8
 
-#EXTINF:-1 tvg-name="TRT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TRT_1_logo_%282021-present%29.svg" group-title="TRT",TRT 1 HD
+#EXTINF:-1 tvg-name="TRT 1 HD" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/trt1.png" group-title="TRT",TRT 1 HD
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
-#EXTINF:-1 tvg-name="TRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/TRT_2_logo.svg/512px-TRT_2_logo.svg.png" group-title="TRT",TRT 2
+#EXTINF:-1 tvg-name="TRT 2" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/trt2.png" group-title="TRT",TRT 2
 https://cdn900.canlitv.vin/trt2.m3u8
 
-#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TRT_Spor_Y%C4%B1ld%C4%B1z_logo.svg/512px-TRT_Spor_Y%C4%B1ld%C4%B1z_logo.svg.png" group-title="Sport",TRT SPOR YILDIZ
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/trt-spor-yildiz.png" group-title="Sport",TRT SPOR YILDIZ
 https://cdn501.canlitv.vin/trtspor2.m3u8
 
-#EXTINF:-1 tvg-name="TRT Müzik" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="Music",TRT Müzik
+#EXTINF:-1 tvg-name="TRT Müzik" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/trt-muzik.png" group-title="Music",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kids",TRT Çocuk
+#EXTINF:-1 tvg-name="TRT Çocuk" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/trt-cocuk.png" group-title="Kids",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Diyanet Çocuk" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Kids",TRT Diyanet Çocuk
+#EXTINF:-1 tvg-name="TRT Diyanet Çocuk" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/trt-diyanet-cocuk.png" group-title="Kids",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="Tabi Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TRT_Spor_logo_%282022%29.svg/512px-TRT_Spor_logo_%282022%29.svg.png" group-title="Sport",Tabi Spor
+#EXTINF:-1 tvg-name="Tabi Spor" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/tabi-spor.png" group-title="Sport",Tabi Spor
 https://andro.1286503.xyz/checklist/androstreamlivetb.m3u8
 
-#EXTINF:-1 tvg-name="Tabi Spor 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TRT_Spor_logo_%282022%29.svg/512px-TRT_Spor_logo_%282022%29.svg.png" group-title="Sport",Tabi Spor 1
+#EXTINF:-1 tvg-name="Tabi Spor 1" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/tabi-spor.png" group-title="Sport",Tabi Spor 1
 https://andro.226503.xyz/checklist/androstreamlivetb1.m3u8
 
-#EXTINF:-1 tvg-name="Tabi Spor 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TRT_Spor_logo_%282022%29.svg/512px-TRT_Spor_logo_%282022%29.svg.png" group-title="Sport",Tabi Spor 2
+#EXTINF:-1 tvg-name="Tabi Spor 2" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/tabi-spor.png" group-title="Sport",Tabi Spor 2
 https://andro.2385437.xyz/checklist/androstreamlivetb2.m3u8
 
-#EXTINF:-1 tvg-name="Tabi Spor 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TRT_Spor_logo_%282022%29.svg/512px-TRT_Spor_logo.svg.png" group-title="Sport",Tabi Spor 3
+#EXTINF:-1 tvg-name="Tabi Spor 3" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/tabi-spor.png" group-title="Sport",Tabi Spor 3
 https://andro.226503.xyz/checklist/androstreamlivetb3.m3u8
 
-#EXTINF:-1 tvg-name="IDMAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Idman_Azerbaijan_TV.png" group-title="Sport",IDMAN TV
+#EXTINF:-1 tvg-name="IDMAN TV" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/idman-tv.png" group-title="Sport",IDMAN TV
 https://andro.226503.xyz/checklist/androstreamliveidm.m3u8
 
-#EXTINF:-1 tvg-name="ES1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Eurosport_1_logo.svg/512px-Eurosport_1_logo.svg.png" group-title="Sport",ES1
+#EXTINF:-1 tvg-name="ES1" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/eurosport1.png" group-title="Sport",ES1
 https://andro.226503.xyz/checklist/androstreamlivees1.m3u8
 
-#EXTINF:-1 tvg-name="ES2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Eurosport_2_logo.svg/512px-Eurosport_2_logo.svg.png" group-title="Sport",ES2
+#EXTINF:-1 tvg-name="ES2" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/eurosport2.png" group-title="Sport",ES2
 https://andro.226503.xyz/checklist/androstreamlivees2.m3u8
 
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/nickelodeon.png" group-title="Kids",Nickelodeon
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 
-#EXTINF:-1 tvg-name="Nickelodeon Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/512px-Nickelodeon_Junior.png" group-title="Kids",Nickelodeon Junior
+#EXTINF:-1 tvg-name="Nickelodeon Junior" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/nickelodeon-junior.png" group-title="Kids",Nickelodeon Junior
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 
-#EXTINF:-1 tvg-name="Nickelodeon Teen" tvg-logo="https://i.imgur.com/OWRUPA4.png" group-title="Kids",Nickelodeon Teen
+#EXTINF:-1 tvg-name="Nickelodeon Teen" tvg-logo="https://raw.githubusercontent.com/Taxa6178/IPTV-TURC/main/logos/nickelodeon-teen.png" group-title="Kids",Nickelodeon Teen
 https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
