@@ -24,12 +24,6 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://i.ibb.co/F3KxkVh/Teve2-Logo.png" group-title="Entertainment",TEVE2
 http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 
-#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://i.ibb.co/4j7q1qD/DMAX-Logo.png" group-title="Entertainment",DMAX
-https://yayin2.canlitv.fun/live/dmax.stream/chunklist_w1435309819.m3u8
-
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://i.ibb.co/r5nV2bL/TLC-Logo.png" group-title="Entertainment",TLC
-https://yayin2.canlitv.fun/live/tlc.stream/chunklist_w197474673.m3u8
-
 #EXTINF:-1 tvg-name="TRT Diyanet Çocuk" tvg-logo="https://i.ibb.co/j8YHsJP/TRT-Diyanet-Cocuk-Logo.png" group-title="Kids",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 
@@ -49,7 +43,7 @@ https://andro.226503.xyz/checklist/androstreamlivetb3.m3u8
 https://andro.226503.xyz/checklist/androstreamliveidm.m3u8
 
 #EXTINF:-1 tvg-name="BS1" tvg-logo="" group-title="Sport",BS1
-https://andro.226503.xyz/checklist/receptestt.m3u8
+https://tzy.zirvedesin236.cfd/taraftarium/mono.m3u8
 
 #EXTINF:-1 tvg-name="BS2" tvg-logo="" group-title="Sport",BS2
 https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
@@ -69,5 +63,3 @@ https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="S Sport 2" tvg-logo="" group-title="Sport",S Sport 2
 https://andro.1286503.xyz/checklist/androstreamlivess2.m3u8
 
-#EXTINF:-1 tvg-name="tabii Sport" tvg-logo="" group-title="Sport",tabii Sport
-https://andro.1286503.xyz/checklist/androstreamlivetb.m3u8
