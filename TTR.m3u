@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="ATV Avrupa" tvg-logo="https://i.ibb.co/xDJ8v5f/ATV-Avrupa-Logo.png" group-title="Turk",ATV Avrupa
-https://cdn504.canlitv.vin/atvavrupa.m3u8
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/3053
 
 #EXTINF:-1 tvg-name="Minika Cocuk" tvg-logo="https://i.ibb.co/yyJV8QX/Minika-Cocuk-Logo.png" group-title="Kids",Minika Cocuk
-https://cdn509.canlitv.vin/minikacocuk.m3u8
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2923
 
 #EXTINF:-1 tvg-name="Minika GO" tvg-logo="https://i.ibb.co/bv7G4WH/Minika-GO-Logo.png" group-title="Kids",Minika GO
-https://cdn501.canlitv.vin/minikago.m3u8
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2922
 
 #EXTINF:-1 tvg-name="Cartoon Network Turkiye" tvg-logo="https://i.ibb.co/wJXy7vF/Cartoon-Network-Turkey-Logo.png" group-title="Kids",Cartoon Network Turkiye
-https://yayin2.canlitv.fun/live/cartoon-network.stream/chunklist_w1899821738.m3u8
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 
 #EXTINF:-1 tvg-name="DIYANET TV" tvg-logo="https://i.ibb.co/PG4XjC1/Diyanet-TV-Logo.png" group-title="Dini",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-logo="https://i.ibb.co/9sVvpRT/TRT-Belgesel-Logo.png" group-title="Documentaire",TRT BELGESEL
-https://cdn900.canlitv.vin/trtbelgesel.m3u8
+http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2835
 
 #EXTINF:-1 tvg-name="LALEGUL TV" tvg-logo="https://i.ibb.co/QnxVJt3/Lalegul-TV-Logo.png" group-title="Dini",LALEGUL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
