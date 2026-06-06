@@ -1,13 +1,19 @@
 #EXTM3U
 
-# SHOW TV : https://www.youtube.com/watch?v=ouuCjEjyKVI
+#EXTINF:-1 tvg-logo="https://yt4.ggpht.com/-EfvVnkF0BbA/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s88-c-k-no-rj-c0xffffff/photo.jpg" group-title="TURQUIE",SHOW TV
+https://www.youtube.com/watch?v=ouuCjEjyKVI
 
-# NOW : https://www.youtube.com/watch?v=YQ40c9HhOYo
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/XXXXXX" group-title="TURQUIE",NOW TV
+https://www.youtube.com/watch?v=YQ40c9HhOYo
 
-# SHOW MAX : https://www.youtube.com/watch?v=Y3vGHFrsqrs
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/XXXXXX" group-title="TURQUIE",SHOW MAX
+https://www.youtube.com/watch?v=Y3vGHFrsqrs
 
-# CNN TURK : https://www.youtube.com/watch?v=6N8_r2uwLEc
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/XXXXXX" group-title="TURQUIE",CNN TURK
+https://www.youtube.com/watch?v=6N8_r2uwLEc
 
-# STAR TV : https://www.youtube.com/watch?v=82O6yOy_XwE
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/XXXXXX" group-title="TURQUIE",STAR TV
+https://www.youtube.com/watch?v=82O6yOy_XwE
 
-# SHOW TURK : https://www.youtube.com/watch?v=XnvS-RZa4Qw
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/XXXXXX" group-title="TURQUIE",SHOW TURK
+https://www.youtube.com/watch?v=XnvS-RZa4Qw
