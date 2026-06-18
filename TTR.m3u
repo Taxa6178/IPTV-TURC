@@ -57,3 +57,11 @@ https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="S Sport 2" tvg-logo="" group-title="Sport",S Sport 2
 https://andro.1286503.xyz/checklist/androstreamlivess2.m3u8
 
+
+# Trappes namaz vakitleri - page (Türkçe)
+#EXTINF:-1 tvg-name="Trappes Vakit (Türkçe)" tvg-logo="" group-title="Dini",Trappes Vakit (Türkçe)
+https://taxa6178.github.io/IPTV-TURC/trappes-vakit/index.html
+
+# Trappes namaz vakitleri - HLS (çalıştırmak için sunucunuza kurmanız gerekir)
+#EXTINF:-1 tvg-name="Trappes Vakit (HLS)" tvg-logo="" group-title="Dini",Trappes Vakit (HLS)
+http://YOUR_SERVER:8080/live/trappes.m3u8
