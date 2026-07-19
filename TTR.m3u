@@ -70,7 +70,5 @@ https://cdn501.canlitv.me/atvavrupa.m3u8?tkn=2iK8_kbnV5IQL2Av4NE_1A&tms=17827644
 http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2833
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://andro.1286503.xyz/checklist/androstreamlivetrt1.m3u8
 
-#EXTINF:-1 group-title="TR",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
