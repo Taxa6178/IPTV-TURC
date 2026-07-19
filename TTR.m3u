@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-name="Minika Cocuk" tvg-logo="https://i.ibb.co/yyJV8QX/Minika-Cocuk-Logo.png" group-title="Kids",Minika Cocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined",TRT 1
+https://andro.1286503.xyz/checklist/androstreamlivetrt1.m3u8
+
 #EXTINF:-1 tvg-name="Minika GO" tvg-logo="https://i.ibb.co/bv7G4WH/Minika-GO-Logo.png" group-title="Kids",Minika GO
 https://trkvz.daioncdn.net/minikago/minikago.m3u8?app=web&ce=3&st=vJu_pL_NWMEgg9-Rnue19Q&e=1780183346&ppid=07435953484b493e14d5ec0de37941ff
 
@@ -69,6 +72,4 @@ https://cdn501.canlitv.me/atvavrupa.m3u8?tkn=2iK8_kbnV5IQL2Av4NE_1A&tms=17827644
 #EXTINF:-1 tvg-name="TRT COCUK" tvg-logo="" group-title="",TRT COCUK
 http://iptv.darktv.eu:80/Cigdem/c3WPPeRm/2833
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined",TRT 1
-https://andro.1286503.xyz/checklist/androstreamlivetrt1.m3u8
 
