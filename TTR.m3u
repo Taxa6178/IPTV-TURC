@@ -7,7 +7,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_72
 https://trkvz.daioncdn.net/minikago/minikago.m3u8?app=web&ce=3&st=vJu_pL_NWMEgg9-Rnue19Q&e=1780183346&ppid=07435953484b493e14d5ec0de37941ff
 
 #EXTINF:-1 tvg-name="Cartoon Network Turkiye" tvg-logo="https://i.ibb.co/wJXy7vF/Cartoon-Network-Turkey-Logo.png" group-title="Kids",Cartoon Network Turkiye
-https://keban.canlitv.vin/cartoon.m3u8?tkn=BFsNGcMKpJeQr4xVsHMymw&tms=1784486922&hst=www.canlitv.vin&ip=2001:861:4290:3150:e520:b06d:310b:b748&utkn=269ab634980cc08b1aeb272a2789d429&ch=cartoon-network
+GET
+	https://keban.canlitv.vin/cartoon.m3u8?tkn=BFsNGcMKpJeQr4xVsHMymw&tms=1784486922&hst=www.canlitv.vin&ip=2001:861:4290:3150:e520:b06d:310b:b748&utkn=269ab634980cc08b1aeb272a2789d429&ch=cartoon-network
 
 #EXTINF:-1 tvg-name="DIYANET TV" tvg-logo="https://i.ibb.co/PG4XjC1/Diyanet-TV-Logo.png" group-title="Dini",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
