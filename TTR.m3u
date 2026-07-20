@@ -9,6 +9,12 @@ https://andro.1286503.xyz/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 tvg-name="TRT COCUK" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="ULUSAL",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_480.m3u8
 
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="SPOR",TRT SPOR
+https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
+
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SPOR",TRT SPOR YILDIZ
+https://andro.226503.xyz/checklist/androstreamlivetrtsy.m3u8
+
 #EXTINF:-1 tvg-name="CNN TURK" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?=&live=true&app=com.cnnturk&st=HPY1k3HZVC7OhS7Q38zDZA&e=1784569130
 
