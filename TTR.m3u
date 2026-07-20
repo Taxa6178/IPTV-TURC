@@ -9,6 +9,12 @@ https://andro.1286503.xyz/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 tvg-name="TRT COCUK" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="ULUSAL",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_480.m3u8
 
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="1 TRT BELGESEL" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",1 TRT BELGESEL
+https://cdn509.canlitv.video/trtbelgesel.m3u8?tkn=r5s0MLhTrHUTD2dCm8A-qg&tms=1784572004&hst=www.canlitv.video&ip=2001:861:4290:3150:5014:7a51:c5b3:9035&utkn=269ab634980cc08b1aeb272a2789d429&ch=trt-belgesel-canli
+
 #EXTINF:-1 tvg-name="Minika GO" tvg-logo="https://i.ibb.co/bv7G4WH/Minika-GO-Logo.png" group-title="Kids",Minika GO
 https://trkvz.daioncdn.net/minikago/minikago.m3u8?app=web&ce=3&st=vJu_pL_NWMEgg9-Rnue19Q&e=1780183346&ppid=07435953484b493e14d5ec0de37941ff
 
