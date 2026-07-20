@@ -15,9 +15,6 @@ https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SPOR",TRT SPOR YILDIZ
 https://andro.226503.xyz/checklist/androstreamlivetrtsy.m3u8
 
-#EXTINF:-1 tvg-name="CNN TURK" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_1_320/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Minika GO" tvg-logo="https://i.ibb.co/bv7G4WH/Minika-GO-Logo.png" group-title="Kids",Minika GO
 https://trkvz-live.ercdn.net/minikago/minikago.m3u8?st=QL-nZ9qcMlGf6RrgRymZdQ&e=1784603613
 
