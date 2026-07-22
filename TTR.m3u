@@ -42,21 +42,6 @@ https://andro.2385437.xyz/checklist/androstreamlivetb2.m3u8
 #EXTINF:-1 tvg-name="Tabi Spor 3" tvg-logo="https://i.ibb.co/7XvKmpB/Tabi-Spor-Logo.png" group-title="Sport",Tabi Spor 3
 https://andro.226503.xyz/checklist/androstreamlivetb3.m3u8
 
-#EXTINF:-1 tvg-name="BS1" tvg-logo="" group-title="Sport",BS1
-https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
-
-#EXTINF:-1 tvg-name="BS2" tvg-logo="" group-title="Sport",BS2
-https://2i4.d72577a9dd0ec71.cfd/b2/mono.m3u8
-
-#EXTINF:-1 tvg-name="BS3" tvg-logo="" group-title="Sport",BS3
-https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
-
-#EXTINF:-1 tvg-name="BS4" tvg-logo="" group-title="Sport",BS4
-https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
-
-#EXTINF:-1 tvg-name="BS5" tvg-logo="" group-title="Sport",BS5
-https://2i4.d72577a9dd0ec71.cfd/b5/mono.m3u8
-
 #EXTINF:-1 tvg-name="A Spor " tvg-logo="" group-title="Sport",A Spor
 https://2i4.d72577a9dd0ec71.cfd/as/mono.m3u8
 
@@ -69,5 +54,3 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-logo="" group-title="Sport",ATV
 https://2i4.d72577a9dd0ec71.cfd/atv/mono.m3u8
 
-#EXTINF:-1 tvg-name="F1" tvg-logo="" group-title="Sport",F1
-https://2i4.d72577a9dd0ec71.cfd/skyf1/mono.m3u8
