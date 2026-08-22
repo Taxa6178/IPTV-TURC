@@ -60,7 +60,6 @@ https://andro.2385437.xyz/checklist/androstreamlivebsm1.m3u8
 #EXTINF:-1 tvg-name="BNS2" tvg-logo="" group-title="Sport",BNS2
 https://andro.1286503.xyz/checklist/androstreamlivebs2.m3u8
 
-
 #EXTINF:-1 tvg-name="BNS3" tvg-logo="" group-title="Sport",BNS3
 https://andro.1286503.xyz/checklist/androstreamlivebs3.m3u8
 
@@ -69,3 +68,6 @@ https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 
 #EXTINF:-1 tvg-name="BNS5" tvg-logo="" group-title="Sport",BNS5
 https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
+
+#EXTINF:-1 tvg-name="TV8" tvg-logo="" group-title="",TV8
+https://tv8.daioncdn.net/tv8/tv8.m3u8
