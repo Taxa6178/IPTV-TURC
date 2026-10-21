@@ -1,1 +1,64 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-name="Minika Cocuk" tvg-logo="https://i.ibb.co/yyJV8QX/Minika-Cocuk-Logo.png" group-title="Kids",Minika Cocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+
+#EXTINF:-1 tvg-name="1 TRT 1" tvg-logo="" group-title="",1 TRT 1
+https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
+
+#EXTINF:-1 tvg-name="TRT COCUK" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="ULUSAL",TRT COCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="SPOR",TRT SPOR
+https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
+
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SPOR",TRT SPOR YILDIZ
+https://andro.1286503.xyz/checklist/androstreamlivetrtsy.m3u8
+
+#EXTINF:-1 tvg-name="Minika GO" tvg-logo="https://i.ibb.co/bv7G4WH/Minika-GO-Logo.png" group-title="Kids",Minika GO
+https://trkvz-live.ercdn.net/minikago/minikago.m3u8?st=QL-nZ9qcMlGf6RrgRymZdQ&e=1784603613
+
+#EXTINF:-1 tvg-name="Cartoon Network Turkiye" tvg-logo="https://i.ibb.co/wJXy7vF/Cartoon-Network-Turkey-Logo.png" group-title="Kids",Cartoon Network Turkiye
+http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6846/index.m3u8
+
+#EXTINF:-1 tvg-name="DIYANET TV" tvg-logo="https://i.ibb.co/PG4XjC1/Diyanet-TV-Logo.png" group-title="Dini",DIYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="LALEGUL TV" tvg-logo="https://i.ibb.co/QnxVJt3/Lalegul-TV-Logo.png" group-title="Dini",LALEGUL TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:-1 tvg-name="TEVE2" tvg-logo="https://i.ibb.co/F3KxkVh/Teve2-Logo.png" group-title="Entertainment",TEVE2
+http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TRT Diyanet Çocuk" tvg-logo="https://i.ibb.co/j8YHsJP/TRT-Diyanet-Cocuk-Logo.png" group-title="Kids",TRT Diyanet Çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabi Spor 1" tvg-logo="https://i.ibb.co/7XvKmpB/Tabi-Spor-Logo.png" group-title="Sport",Tabi Spor 1
+https://andro.226503.xyz/checklist/androstreamlivetb1.m3u8
+
+#EXTINF:-1 tvg-name="Tabi Spor 2" tvg-logo="https://i.ibb.co/7XvKmpB/Tabi-Spor-Logo.png" group-title="Sport",Tabi Spor 2
+https://andro.2385437.xyz/checklist/androstreamlivetb2.m3u8
+
+#EXTINF:-1 tvg-name="Tabi Spor 3" tvg-logo="https://i.ibb.co/7XvKmpB/Tabi-Spor-Logo.png" group-title="Sport",Tabi Spor 3
+https://andro.226503.xyz/checklist/androstreamlivetb3.m3u8
+
+#EXTINF:-1 tvg-name="A Spor " tvg-logo="" group-title="Sport",A Spor
+https://andro.1286503.xyz/checklist/androstreamliveas.m3u8
+
+#EXTINF:-1 tvg-name="Kanal D " tvg-logo="" group-title="Sport",Kanal D
+https://host3.onlineradyotv.net:8081/kanald/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="TRT Turk" tvg-id="TRTTurk.tr" tvg-logo="https://i.ibb.co/zN1BK38/trt-turk.png" group-title="ULUSAL",TRT TURK
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="ATV" tvg-logo="" group-title="Sport",ATV
+https://andro.1286503.xyz/checklist/androstreamliveatv.m3u8
+
+#EXTINF:-1 tvg-name="MAHSUN F1" tvg-logo="" group-title="Sport",MAHSUN F1
+https://andro.evrenesoglu121.click/checklist/androstreamlivebs4.m3u8
+
+#EXTINF:-1 tvg-name="MAHSUN TRS" tvg-logo="" group-title="Sport",MAHSUN TRS
+https://andro.evrenesoglu107.click/checklist/batutest.m3u8
+
+#EXTINF:-1 tvg-name="MAHSUN TRS (YEDEK)" tvg-logo="" group-title="Sport",MAHSUN TRS (YEDEK)
+https://andro.evrenesoglu113.click/checklist/androstreamlivenba.m3u8
